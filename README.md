@@ -16,7 +16,7 @@ Open a Terminal: Open a terminal or command prompt.
 Navigate: Navigate to the directory where pdf_merger.py is located.
 Run the Script: Run the script using python pdf_merger.py.
 <h3>Example</h3> <pre> $ python pdf_merger.py Merging 1.pdf and 2.pdf into merged.pdf... Output saved as merged.pdf </pre> <h2>Author</h2>
-[Your Name] is the creator of PDF Merger.
+STUTI is the creator of PDF Merger.
 
 <h2>Contribute and Enhance</h2>
 Feel free to explore, modify, and enhance this project. Happy coding! 📄💻
